@@ -1,0 +1,4 @@
+packages:
+  - name: "pod.yaml"
+    packageType: kubernetes
+    version: "1.0.1"
